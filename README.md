@@ -14,10 +14,10 @@ This repo includes:
 
 ---
 helixnet/
-├── model.py           # CNN architecture
-├── dataset.py         # Encoding & preprocessing
-├── train.py           # Model training
-├── inference.py       # Predict structure from raw sequence
-├── evaluate.py        # Eval metrics & confusion matrix
-├── config.py          # Constants & hyperparams
-├── requirements.txt   # All dependencies
+- model.py           # CNN architecture
+- dataset.py         # Encoding & preprocessing
+- train.py           # Model training
+- inference.py       # Predict structure from raw sequence
+- evaluate.py        # Eval metrics & confusion matrix
+- config.py          # Constants & hyperparams
+- requirements.txt   # All dependencies
