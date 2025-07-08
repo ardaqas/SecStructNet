@@ -13,20 +13,7 @@ This repo includes:
 - Loss & accuracy visualizations
 
 ---
-
-## 📦 Project Structure
-
-┣  model.py # CNN architecture
-┣  dataset.py # Encoding & preprocessing
-┣  train.py # Model training
-┣  inference.py # Predict structure from raw sequence
-┣  evaluate.py # Eval metrics & confusion matrix
-┣  config.py # Constants & hyperparams
-┣  requirements.txt # All dependencies
-┣  outputs/ # Saved logs (loss, acc)
-┣  plots/ # PNGs of training curves, confusion
-┗  data/ # (not included — see below)
-
+<pre>  SecStructNet 1.0 ├── model.py # CNN architecture ├── dataset.py # Encoding & preprocessing ├── train.py # Model training ├── inference.py # Predict structure from raw sequence ├── evaluate.py # Eval metrics & confusion matrix ├── config.py # Constants & hyperparams ├── requirements.txt # All dependencies ├── outputs/ # Saved logs (loss, acc) ├── plots/ # PNGs of training curves, confusion └── data/ # (not included — see below) </pre>
 ## 📉 Loss & Accuracy Curves
 
 <img src="plots/loss_curve.png" width="600">
