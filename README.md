@@ -13,4 +13,11 @@ This repo includes:
 - Loss & accuracy visualizations
 
 ---
-<pre> 📦 helixnet ├── model.py # CNN architecture ├── dataset.py # Encoding & preprocessing ├── train.py # Model training ├── inference.py # Predict structure from raw sequence ├── evaluate.py # Eval metrics & confusion matrix ├── config.py # Constants & hyperparams ├── requirements.txt # All dependencies ├── outputs/ # Saved logs (loss, acc) ├── plots/ # PNGs of training curves, confusion └── data/ # (not included — see below) </pre>
+helixnet/
+├── model.py           # CNN architecture
+├── dataset.py         # Encoding & preprocessing
+├── train.py           # Model training
+├── inference.py       # Predict structure from raw sequence
+├── evaluate.py        # Eval metrics & confusion matrix
+├── config.py          # Constants & hyperparams
+├── requirements.txt   # All dependencies
