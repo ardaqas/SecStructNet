@@ -13,7 +13,7 @@ This repo includes:
 - Loss & accuracy visualizations
 
 ---
-helixnet/
+SecStructNet/
 - model.py           # CNN architecture
 - dataset.py         # Encoding & preprocessing
 - train.py           # Model training
